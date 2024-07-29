@@ -23,3 +23,11 @@ for Learning Purpose
 9. Unstage a file - git reset README.md
 
 10. Reset the staging area and working directory to the last commit - git reset --hard
+
+# Inspect and Compare
+
+11. View the commit history - git log
+
+12. View changes not yet staged for commit - git diff
+
+13. Show details of the most recent commit - git show
